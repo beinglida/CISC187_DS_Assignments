@@ -1,2 +1,2 @@
-# CICS187_DS_Assignments
-This repo is for CICS187 Data Strutures Assignments
+# CISC187_DS_Assignments
+This repo is for CISC187 Data Strutures Assignments
