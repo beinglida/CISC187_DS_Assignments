@@ -112,3 +112,7 @@ int main() {
 ---
 
 That’s all five tasks. Arrays are fast to read by index and cheap to add/remove at the end, but inserting or deleting at the front means shifting a lot of data.
+
+([Youtube link](https://youtu.be/uhcAsxjQc3c))
+
+
